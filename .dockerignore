@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Log files
+*.log
+
+# Environment files
+*.env
+
+# Version control
+.git/
+.gitignore
+
+# Development-specific files
+.dockerignore
+README.md
